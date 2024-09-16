@@ -1,0 +1,12 @@
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\bin\Debug\net8.0\Dino.ForumApp.Domain.deps.json
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\bin\Debug\net8.0\Dino.ForumApp.Domain.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\bin\Debug\net8.0\Dino.ForumApp.Domain.pdb
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\Dino.ForumApp.Domain.csproj.AssemblyReference.cache
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\Dino.ForumApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\Dino.ForumApp.Domain.AssemblyInfoInputs.cache
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\Dino.ForumApp.Domain.AssemblyInfo.cs
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\Dino.ForumApp.Domain.csproj.CoreCompileInputs.cache
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\Dino.ForumApp.Domain.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\refint\Dino.ForumApp.Domain.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\Dino.ForumApp.Domain.pdb
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\ref\Dino.ForumApp.Domain.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dino.ForumApp.WebApiApplication.props" />
+</Project>

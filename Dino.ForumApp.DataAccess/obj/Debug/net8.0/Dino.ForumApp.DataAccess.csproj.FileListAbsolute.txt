@@ -1,0 +1,17 @@
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\bin\Debug\net8.0\Dino.ForumApp.DataAccess.deps.json
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\bin\Debug\net8.0\Dino.ForumApp.DataAccess.runtimeconfig.json
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\bin\Debug\net8.0\Dino.ForumApp.DataAccess.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\bin\Debug\net8.0\Dino.ForumApp.DataAccess.pdb
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\bin\Debug\net8.0\Dino.ForumApp.Domain.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\bin\Debug\net8.0\Dino.ForumApp.Domain.pdb
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\Dino.ForumApp.DataAccess.csproj.AssemblyReference.cache
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\Dino.ForumApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\Dino.ForumApp.DataAccess.AssemblyInfoInputs.cache
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\Dino.ForumApp.DataAccess.AssemblyInfo.cs
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\Dino.ForumApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\Dino.For.54F2D1EB.Up2Date
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\Dino.ForumApp.DataAccess.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\refint\Dino.ForumApp.DataAccess.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\Dino.ForumApp.DataAccess.pdb
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\Dino.ForumApp.DataAccess.genruntimeconfig.cache
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\ref\Dino.ForumApp.DataAccess.dll

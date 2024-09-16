@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Dino.ForumApp.Api.Controllers.PostController",
+    "Method": "CreateComment",
+    "RelativePath": "api/Post/createcomment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "commentDto",
+        "Type": "Dino.ForumApp.Application.DTOs.CommentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dino.ForumApp.Api.Controllers.PostController",
+    "Method": "CreatePost",
+    "RelativePath": "api/Post/createpost",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "postDto",
+        "Type": "Dino.ForumApp.Application.DTOs.PostDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dino.ForumApp.Api.Controllers.PostController",
+    "Method": "GetAllPosts",
+    "RelativePath": "api/Post/posts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dino.ForumApp.Api.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "Dino.ForumApp.Application.DTOs.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Dino.ForumApp.Api.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registrationDto",
+        "Type": "Dino.ForumApp.Application.DTOs.UserRegistrationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

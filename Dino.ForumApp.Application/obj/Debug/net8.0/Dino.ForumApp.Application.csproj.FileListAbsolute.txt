@@ -1,0 +1,17 @@
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\bin\Debug\net8.0\Dino.ForumApp.Application.deps.json
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\bin\Debug\net8.0\Dino.ForumApp.Application.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\bin\Debug\net8.0\Dino.ForumApp.Application.pdb
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\bin\Debug\net8.0\Dino.ForumApp.DataAccess.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\bin\Debug\net8.0\Dino.ForumApp.Domain.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\bin\Debug\net8.0\Dino.ForumApp.DataAccess.pdb
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\bin\Debug\net8.0\Dino.ForumApp.Domain.pdb
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\obj\Debug\net8.0\Dino.ForumApp.Application.csproj.AssemblyReference.cache
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\obj\Debug\net8.0\Dino.ForumApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\obj\Debug\net8.0\Dino.ForumApp.Application.AssemblyInfoInputs.cache
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\obj\Debug\net8.0\Dino.ForumApp.Application.AssemblyInfo.cs
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\obj\Debug\net8.0\Dino.ForumApp.Application.csproj.CoreCompileInputs.cache
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\obj\Debug\net8.0\Dino.For.25C28DD4.Up2Date
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\obj\Debug\net8.0\Dino.ForumApp.Application.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\obj\Debug\net8.0\refint\Dino.ForumApp.Application.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\obj\Debug\net8.0\Dino.ForumApp.Application.pdb
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Application\obj\Debug\net8.0\ref\Dino.ForumApp.Application.dll

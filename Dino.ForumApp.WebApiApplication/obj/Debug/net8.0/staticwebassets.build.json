@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zUSyWuMCEO2mo5kiIc/GJKvZSP5U7QY2f4l8o4sprXM=",
+  "Source": "Dino.ForumApp.WebApiApplication",
+  "BasePath": "_content/Dino.ForumApp.WebApiApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

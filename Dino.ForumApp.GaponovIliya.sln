@@ -5,15 +5,20 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dino.ForumApp.WebApiApplication", "Dino.ForumApp.WebApiApplication\Dino.ForumApp.WebApiApplication.csproj", "{DB861B82-2B2D-4525-8F70-0C8C572DDC57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dino.ForumApp.Api", "Dino.ForumApp.Api\Dino.ForumApp.Api.csproj", "{2FBFFFAA-5F7F-4B65-A8F9-42E0A5687ACF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dino.ForumApp.Api", "Dino.ForumApp.Api\Dino.ForumApp.Api.csproj", "{2FBFFFAA-5F7F-4B65-A8F9-42E0A5687ACF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dino.ForumApp.Application", "Dino.ForumApp.Application\Dino.ForumApp.Application.csproj", "{E5AE2B59-074F-42D6-B406-14669D90481A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dino.ForumApp.Application", "Dino.ForumApp.Application\Dino.ForumApp.Application.csproj", "{E5AE2B59-074F-42D6-B406-14669D90481A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dino.ForumApp.DataAccess", "Dino.ForumApp.DataAccess\Dino.ForumApp.DataAccess.csproj", "{B29AC234-AB25-448E-A700-757C3E091B27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dino.ForumApp.DataAccess", "Dino.ForumApp.DataAccess\Dino.ForumApp.DataAccess.csproj", "{B29AC234-AB25-448E-A700-757C3E091B27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dino.ForumApp.Domain", "Dino.ForumApp.Domain\Dino.ForumApp.Domain.csproj", "{AE2C4131-6235-48A2-99E3-76B23EE59C24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dino.ForumApp.Domain", "Dino.ForumApp.Domain\Dino.ForumApp.Domain.csproj", "{AE2C4131-6235-48A2-99E3-76B23EE59C24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dino.ForumApp.Infrastructure", "Dino.ForumApp.Infrastructure\Dino.ForumApp.Infrastructure.csproj", "{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dino.ForumApp.Infrastructure", "Dino.ForumApp.Infrastructure\Dino.ForumApp.Infrastructure.csproj", "{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FB8F867C-5D3A-44EC-BE1C-36DC51485AF0}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

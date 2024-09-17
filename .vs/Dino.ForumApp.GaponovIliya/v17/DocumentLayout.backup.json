@@ -3,76 +3,12 @@
   "WorkspaceRootPath": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.webapiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|solutionrelative:dino.forumapp.webapiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\hubs\\forumhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\hubs\\forumhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FBFFFAA-5F7F-4B65-A8F9-42E0A5687ACF}|Dino.ForumApp.Api\\Dino.ForumApp.Api.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FBFFFAA-5F7F-4B65-A8F9-42E0A5687ACF}|Dino.ForumApp.Api\\Dino.ForumApp.Api.csproj|solutionrelative:dino.forumapp.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\interfaces\\iforumhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\interfaces\\iforumhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FBFFFAA-5F7F-4B65-A8F9-42E0A5687ACF}|Dino.ForumApp.Api\\Dino.ForumApp.Api.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FBFFFAA-5F7F-4B65-A8F9-42E0A5687ACF}|Dino.ForumApp.Api\\Dino.ForumApp.Api.csproj|solutionrelative:dino.forumapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\userregisterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\userregisterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\userloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\userloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.domain\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|solutionrelative:dino.forumapp.domain\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\mappings\\applicationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\mappings\\applicationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.domain\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|solutionrelative:dino.forumapp.domain\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\getallpostsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\getallpostsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\postresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\postresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|solutionrelative:dino.forumapp.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.dataaccess\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,8 +19,144 @@
       "RelativeMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|solutionrelative:dino.forumapp.dataaccess\\interfaces\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|solutionrelative:dino.forumapp.dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.dataaccess\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|solutionrelative:dino.forumapp.dataaccess\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\hubs\\forumhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\hubs\\forumhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.webapiapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|solutionrelative:dino.forumapp.webapiapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.webapiapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|solutionrelative:dino.forumapp.webapiapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|solutionrelative:dino.forumapp.infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.infrastructure\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|solutionrelative:dino.forumapp.infrastructure\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\interfaces\\auth\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\interfaces\\auth\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|solutionrelative:dino.forumapp.infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\interfaces\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\interfaces\\iforumhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\interfaces\\iforumhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.dataaccess\\dino.forumapp.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|solutionrelative:dino.forumapp.dataaccess\\dino.forumapp.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.domain\\exceptions\\credentialsfailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|solutionrelative:dino.forumapp.domain\\exceptions\\credentialsfailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\exceptions\\tokennotverifiedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\exceptions\\tokennotverifiedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.domain\\exceptions\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|solutionrelative:dino.forumapp.domain\\exceptions\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.domain\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|solutionrelative:dino.forumapp.domain\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.dataaccess\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|solutionrelative:dino.forumapp.dataaccess\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|solutionrelative:dino.forumapp.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBFFFAA-5F7F-4B65-A8F9-42E0A5687ACF}|Dino.ForumApp.Api\\Dino.ForumApp.Api.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBFFFAA-5F7F-4B65-A8F9-42E0A5687ACF}|Dino.ForumApp.Api\\Dino.ForumApp.Api.csproj|solutionrelative:dino.forumapp.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBFFFAA-5F7F-4B65-A8F9-42E0A5687ACF}|Dino.ForumApp.Api\\Dino.ForumApp.Api.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBFFFAA-5F7F-4B65-A8F9-42E0A5687ACF}|Dino.ForumApp.Api\\Dino.ForumApp.Api.csproj|solutionrelative:dino.forumapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\userregisterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\userregisterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\mappings\\applicationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\mappings\\applicationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\userloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\userloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\postresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\postresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\getallpostsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\getallpostsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8F867C-5D3A-44EC-BE1C-36DC51485AF0}|Solution Items{FB8F867C-5D3A-44EC-BE1C-36DC51485AF0}|D:\\VS projects\\Dino.ForumApp.GaponovIliya\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FB8F867C-5D3A-44EC-BE1C-36DC51485AF0}|Solution Items{FB8F867C-5D3A-44EC-BE1C-36DC51485AF0}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.webapiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|solutionrelative:dino.forumapp.webapiapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.domain\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|solutionrelative:dino.forumapp.domain\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.domain\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|solutionrelative:dino.forumapp.domain\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.dataaccess\\data\\forumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,68 +175,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dino.ForumApp.DataAccess\\Migrations\\20240916123631_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.webapiapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|solutionrelative:dino.forumapp.webapiapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.webapiapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|solutionrelative:dino.forumapp.webapiapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|solutionrelative:dino.forumapp.dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.webapiapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DB861B82-2B2D-4525-8F70-0C8C572DDC57}|Dino.ForumApp.WebApiApplication\\Dino.ForumApp.WebApiApplication.csproj|solutionrelative:dino.forumapp.webapiapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.domain\\exceptions\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|solutionrelative:dino.forumapp.domain\\exceptions\\useralreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.domain\\exceptions\\credentialsfailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|solutionrelative:dino.forumapp.domain\\exceptions\\credentialsfailedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.application\\exceptions\\tokennotverifiedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5AE2B59-074F-42D6-B406-14669D90481A}|Dino.ForumApp.Application\\Dino.ForumApp.Application.csproj|solutionrelative:dino.forumapp.application\\exceptions\\tokennotverifiedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.domain\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2C4131-6235-48A2-99E3-76B23EE59C24}|Dino.ForumApp.Domain\\Dino.ForumApp.Domain.csproj|solutionrelative:dino.forumapp.domain\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.dataaccess\\dino.forumapp.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|solutionrelative:dino.forumapp.dataaccess\\dino.forumapp.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|solutionrelative:dino.forumapp.infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.infrastructure\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|solutionrelative:dino.forumapp.infrastructure\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.infrastructure\\dino.forumapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|solutionrelative:dino.forumapp.infrastructure\\dino.forumapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D2A99F8-107D-42A4-9ACE-B2E1896202F1}|Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj|solutionrelative:dino.forumapp.infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B29AC234-AB25-448E-A700-757C3E091B27}|Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj|d:\\vs projects\\dino.forumapp.gaponoviliya\\dino.forumapp.dataaccess\\migrations\\20240916130617_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -173,14 +189,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\obj\\Debug\\net8.0\\Dino.ForumApp.WebApiApplication.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dino.ForumApp.WebApiApplication\\obj\\Debug\\net8.0\\Dino.ForumApp.WebApiApplication.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Interfaces\\ICommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dino.ForumApp.DataAccess\\Interfaces\\ICommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Repositories\\CommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dino.ForumApp.DataAccess\\Repositories\\CommentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -190,35 +198,362 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserLoginResponse.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\UserLoginResponse.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\UserLoginResponse.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\UserLoginResponse.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\UserLoginResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T08:36:21.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Services\\UserService.cs",
               "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Services\\UserService.cs",
               "RelativeToolTip": "Dino.ForumApp.Application\\Services\\UserService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswDAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T15:15:37.65Z"
+              "WhenOpened": "2024-09-13T15:15:37.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IForumHub.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\IForumHub.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Interfaces\\IForumHub.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\IForumHub.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\Interfaces\\IForumHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:29:09.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForumHub.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Hubs\\ForumHub.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Hubs\\ForumHub.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Hubs\\ForumHub.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\Hubs\\ForumHub.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:36:48.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\PostDto.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\PostDto.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\PostDto.cs*",
+              "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\PostDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:47:10.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Services\\PostService.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Services\\PostService.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\Services\\PostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:57:50.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Repositories\\PostRepository.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:31:43.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Interfaces\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Interfaces\\IPostRepository.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Interfaces\\IPostRepository.cs",
+              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Interfaces\\IPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:31:17.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:42:22.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Interfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Interfaces\\ICommentRepository.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Interfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Interfaces\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:07:00.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Dino.ForumApp.WebApiApplication\\appsettings.Development.json",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\appsettings.Development.json",
+              "RelativeToolTip": "Dino.ForumApp.WebApiApplication\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T08:05:05.92Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "Dino.ForumApp.WebApiApplication\\appsettings.json",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\appsettings.json",
+              "RelativeToolTip": "Dino.ForumApp.WebApiApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T08:07:46.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Infrastructure\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Infrastructure\\AuthOptions.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Infrastructure\\AuthOptions.cs",
+              "RelativeToolTip": "Dino.ForumApp.Infrastructure\\AuthOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:33:38.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Infrastructure\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Infrastructure\\PasswordHasher.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Infrastructure\\PasswordHasher.cs",
+              "RelativeToolTip": "Dino.ForumApp.Infrastructure\\PasswordHasher.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:18:40.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Infrastructure\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Infrastructure\\JwtProvider.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Infrastructure\\JwtProvider.cs",
+              "RelativeToolTip": "Dino.ForumApp.Infrastructure\\JwtProvider.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:09:45.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\Auth\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Interfaces\\Auth\\IPasswordHasher.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\Auth\\IPasswordHasher.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\Interfaces\\Auth\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:11:02.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\Auth\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Interfaces\\Auth\\IJwtProvider.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\Auth\\IJwtProvider.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\Interfaces\\Auth\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:25:14.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\IPostService.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Interfaces\\IPostService.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\IPostService.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\Interfaces\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:43:21.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:23:15.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dino.ForumApp.DataAccess.csproj",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj",
+              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj",
+              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-14T11:36:26.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CredentialsFailedException.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Exceptions\\CredentialsFailedException.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Domain\\Exceptions\\CredentialsFailedException.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Exceptions\\CredentialsFailedException.cs",
+              "RelativeToolTip": "Dino.ForumApp.Domain\\Exceptions\\CredentialsFailedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:53:35.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TokenNotVerifiedException.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Exceptions\\TokenNotVerifiedException.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Exceptions\\TokenNotVerifiedException.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Exceptions\\TokenNotVerifiedException.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\Exceptions\\TokenNotVerifiedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:25:33.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserAlreadyExistsException.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Exceptions\\UserAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Domain\\Exceptions\\UserAlreadyExistsException.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Exceptions\\UserAlreadyExistsException.cs",
+              "RelativeToolTip": "Dino.ForumApp.Domain\\Exceptions\\UserAlreadyExistsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:01:34.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Domain\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "Dino.ForumApp.Domain\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T13:16:29.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Repositories\\CommentRepository.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:08:04.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:16:41.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Api\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Api\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Api\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Dino.ForumApp.Api\\Controllers\\PostController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:25:18.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Api\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Dino.ForumApp.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:18:12.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "UserRegisterResponse.cs",
               "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\UserRegisterResponse.cs",
               "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\UserRegisterResponse.cs",
@@ -226,72 +561,103 @@
               "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\UserRegisterResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T10:57:39.236Z"
+              "WhenOpened": "2024-09-14T10:57:39.236Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PostDto.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\PostDto.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\PostDto.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\PostDto.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\PostDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "ApplicationMappingProfile.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\Mappings\\ApplicationMappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T08:47:10.185Z"
+              "WhenOpened": "2024-09-15T09:00:25.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 29,
+              "Title": "UserRegistrationDto.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\UserRegistrationDto.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\UserRegistrationDto.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\UserRegistrationDto.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\UserRegistrationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:21:56.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserLoginResponse.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\UserLoginResponse.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\UserLoginResponse.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\UserLoginResponse.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\UserLoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:36:21.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:21:10.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PostResponse.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\PostResponse.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\PostResponse.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\PostResponse.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\PostResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:11:50.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetAllPostsResponse.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\GetAllPostsResponse.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\GetAllPostsResponse.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\GetAllPostsResponse.cs",
+              "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\GetAllPostsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:45:54.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "CommentDto.cs",
               "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\CommentDto.cs",
               "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\CommentDto.cs",
               "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\CommentDto.cs",
               "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\CommentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T08:51:24.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ForumHub.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Hubs\\ForumHub.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Hubs\\ForumHub.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Hubs\\ForumHub.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\Hubs\\ForumHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:36:48.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PostService.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Services\\PostService.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Services\\PostService.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Services\\PostService.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\Services\\PostService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAiwEEAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T08:57:50.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\Program.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.WebApiApplication\\Program.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\Program.cs",
-              "RelativeToolTip": "Dino.ForumApp.WebApiApplication\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T15:20:24.012Z",
+              "WhenOpened": "2024-09-15T08:51:24.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 37,
               "Title": "Comment.cs",
               "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Dino.ForumApp.Domain\\Models\\Comment.cs",
@@ -303,91 +669,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PostController.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Api\\Controllers\\PostController.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Api\\Controllers\\PostController.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Api\\Controllers\\PostController.cs",
-              "RelativeToolTip": "Dino.ForumApp.Api\\Controllers\\PostController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwCgAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Dino.ForumApp.WebApiApplication\\Program.cs",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\Program.cs",
+              "RelativeToolTip": "Dino.ForumApp.WebApiApplication\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:25:18.858Z"
+              "WhenOpened": "2024-09-13T15:20:24.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Api\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Api\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Dino.ForumApp.Api\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T15:18:12.445Z"
+              "DocumentIndex": 35,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-16T23:01:20.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IForumHub.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\IForumHub.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Interfaces\\IForumHub.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\IForumHub.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\Interfaces\\IForumHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T21:29:09.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GetAllPostsResponse.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\GetAllPostsResponse.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\GetAllPostsResponse.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\GetAllPostsResponse.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\GetAllPostsResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T08:45:54.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAjwBgAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T15:16:41.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IPostService.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\IPostService.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Interfaces\\IPostService.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\IPostService.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\Interfaces\\IPostService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T08:43:21.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationMappingProfile.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Mappings\\ApplicationMappingProfile.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Mappings\\ApplicationMappingProfile.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Mappings\\ApplicationMappingProfile.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\Mappings\\ApplicationMappingProfile.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAASwBMAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:00:25.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 38,
               "Title": "Post.cs",
               "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Models\\Post.cs",
               "RelativeDocumentMoniker": "Dino.ForumApp.Domain\\Models\\Post.cs",
@@ -399,91 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PostResponse.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\PostResponse.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\PostResponse.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\PostResponse.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\PostResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T20:11:50.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IPostRepository.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Interfaces\\IPostRepository.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Interfaces\\IPostRepository.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Interfaces\\IPostRepository.cs",
-              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Interfaces\\IPostRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T08:31:17.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PostRepository.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Repositories\\PostRepository.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Repositories\\PostRepository.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Repositories\\PostRepository.cs",
-              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Repositories\\PostRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T08:31:43.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ICommentRepository.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Interfaces\\ICommentRepository.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Interfaces\\ICommentRepository.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Interfaces\\ICommentRepository.cs",
-              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Interfaces\\ICommentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T19:07:00.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "CommentRepository.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Repositories\\CommentRepository.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Repositories\\CommentRepository.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Repositories\\CommentRepository.cs",
-              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Repositories\\CommentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T19:08:04.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T15:23:15.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UserRegistrationDto.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\UserRegistrationDto.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\UserRegistrationDto.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\UserRegistrationDto.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\UserRegistrationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T08:21:56.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 45,
               "Title": "20240916130617_InitialCreate.cs",
               "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Migrations\\20240916130617_InitialCreate.cs",
               "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Migrations\\20240916130617_InitialCreate.cs",
@@ -495,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 42,
               "Title": "20240916123631_InitialCreate.cs",
               "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Migrations\\20240916123631_InitialCreate.cs",
               "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Migrations\\20240916123631_InitialCreate.cs",
@@ -507,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 40,
               "Title": "20240916130117_InitialCreate.cs",
               "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Migrations\\20240916130117_InitialCreate.cs",
               "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Migrations\\20240916130117_InitialCreate.cs",
@@ -519,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 39,
               "Title": "ForumDbContext.cs",
               "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Data\\ForumDbContext.cs",
               "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Data\\ForumDbContext.cs",
@@ -531,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 41,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "Dino.ForumApp.Domain\\Models\\User.cs",
@@ -543,19 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T08:42:22.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 43,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Dino.ForumApp.WebApiApplication\\Properties\\launchSettings.json",
@@ -567,139 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "Dino.ForumApp.WebApiApplication\\appsettings.json",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\appsettings.json",
-              "RelativeToolTip": "Dino.ForumApp.WebApiApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-14T08:07:46.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IJwtProvider.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\Auth\\IJwtProvider.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Interfaces\\Auth\\IJwtProvider.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Interfaces\\Auth\\IJwtProvider.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\Interfaces\\Auth\\IJwtProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T10:25:14.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "UserAlreadyExistsException.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Exceptions\\UserAlreadyExistsException.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Domain\\Exceptions\\UserAlreadyExistsException.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Exceptions\\UserAlreadyExistsException.cs",
-              "RelativeToolTip": "Dino.ForumApp.Domain\\Exceptions\\UserAlreadyExistsException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T16:01:34.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "UserLoginDto.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\UserLoginDto.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\DTOs\\UserLoginDto.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\DTOs\\UserLoginDto.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\DTOs\\UserLoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T08:21:10.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Dino.ForumApp.WebApiApplication\\appsettings.Development.json",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\appsettings.Development.json",
-              "RelativeToolTip": "Dino.ForumApp.WebApiApplication\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-14T08:05:05.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "UserNotFoundException.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Exceptions\\UserNotFoundException.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Domain\\Exceptions\\UserNotFoundException.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Exceptions\\UserNotFoundException.cs",
-              "RelativeToolTip": "Dino.ForumApp.Domain\\Exceptions\\UserNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T13:16:29.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CredentialsFailedException.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Exceptions\\CredentialsFailedException.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Domain\\Exceptions\\CredentialsFailedException.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Domain\\Exceptions\\CredentialsFailedException.cs",
-              "RelativeToolTip": "Dino.ForumApp.Domain\\Exceptions\\CredentialsFailedException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T13:53:35.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "TokenNotVerifiedException.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Exceptions\\TokenNotVerifiedException.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Application\\Exceptions\\TokenNotVerifiedException.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Application\\Exceptions\\TokenNotVerifiedException.cs",
-              "RelativeToolTip": "Dino.ForumApp.Application\\Exceptions\\TokenNotVerifiedException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T13:25:33.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Dino.ForumApp.DataAccess.csproj",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj",
-              "RelativeDocumentMoniker": "Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj",
-              "RelativeToolTip": "Dino.ForumApp.DataAccess\\Dino.ForumApp.DataAccess.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-14T11:36:26.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "AuthOptions.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Infrastructure\\AuthOptions.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Infrastructure\\AuthOptions.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Infrastructure\\AuthOptions.cs",
-              "RelativeToolTip": "Dino.ForumApp.Infrastructure\\AuthOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T09:33:38.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "JwtProvider.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Infrastructure\\JwtProvider.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Infrastructure\\JwtProvider.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Infrastructure\\JwtProvider.cs",
-              "RelativeToolTip": "Dino.ForumApp.Infrastructure\\JwtProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T08:09:45.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "Dino.ForumApp.Infrastructure.csproj",
               "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj",
@@ -707,11 +786,12 @@
               "RelativeToolTip": "Dino.ForumApp.Infrastructure\\Dino.ForumApp.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-14T09:37:23.907Z"
+              "WhenOpened": "2024-09-14T09:37:23.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "Dino.ForumApp.WebApiApplication.GlobalUsings.g.cs",
               "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.WebApiApplication\\obj\\Debug\\net8.0\\Dino.ForumApp.WebApiApplication.GlobalUsings.g.cs",
               "RelativeDocumentMoniker": "Dino.ForumApp.WebApiApplication\\obj\\Debug\\net8.0\\Dino.ForumApp.WebApiApplication.GlobalUsings.g.cs",
@@ -720,18 +800,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T15:21:39.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Infrastructure\\PasswordHasher.cs",
-              "RelativeDocumentMoniker": "Dino.ForumApp.Infrastructure\\PasswordHasher.cs",
-              "ToolTip": "D:\\VS projects\\Dino.ForumApp.GaponovIliya\\Dino.ForumApp.Infrastructure\\PasswordHasher.cs",
-              "RelativeToolTip": "Dino.ForumApp.Infrastructure\\PasswordHasher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T15:18:40.744Z"
             }
           ]
         }

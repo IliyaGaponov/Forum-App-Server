@@ -5,10 +5,12 @@ using Dino.ForumApp.Domain.Models;
 using Dino.ForumApp.Application.DTOs;
 using Dino.ForumApp.Application.Interfaces.Auth;
 using Dino.ForumApp.Domain.Exceptions;
-using Dino.ForumApp.Application.Exceptions;
 
 namespace Dino.ForumApp.Application.Services
 {
+    /// <summary>
+    /// Service for managing user-related operations.
+    /// </summary>
     public class UserService : IUserService
     {
         private readonly IUserRepository _userRepository;
@@ -16,6 +18,13 @@ namespace Dino.ForumApp.Application.Services
         private readonly IJwtProvider _jwtProvider;
         private readonly IMapper _mapper;
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="UserService"/> class.
+        /// </summary>
+        /// <param name="userRepository">The user repository.</param>
+        /// <param name="passwordHasher">The password hasher.</param>
+        /// <param name="jwtProvider">The jwt provider.</param>
+        /// <param name="mapper">The automapper.</param>
         public UserService(IUserRepository userRepository, IPasswordHasher passwordHasher, IJwtProvider jwtProvider, IMapper mapper)
         {
             this._userRepository = userRepository;
@@ -24,6 +33,11 @@ namespace Dino.ForumApp.Application.Services
             this._mapper = mapper;
         }
 
+        /// <summary>
+        /// Registers a new user.
+        /// </summary>
+        /// <param name="registrationDto">The register data transfer object (DTO) containing user register information.</param>
+        /// <returns>Returns the token and username of the newly created user.</returns>
         public async Task<UserRegisterResponse> RegisterAsync(UserRegistrationDto registrationDto)
         {
             if (await _userRepository.IsUserExists(registrationDto.Email).ConfigureAwait(false))
@@ -50,6 +64,11 @@ namespace Dino.ForumApp.Application.Services
             };            
         }
 
+        /// <summary>
+        /// Logins a user.
+        /// </summary>
+        /// <param name="loginDto">The login data transfer object (DTO) containing user login information.</param>
+        /// <returns>Returns the token and username of the logged in user.</returns>
         public async Task<UserLoginResponse> LoginAsync(UserLoginDto loginDto)
         {
             User user = await _userRepository.GetUserByEmailAsync(loginDto.Email).ConfigureAwait(false);

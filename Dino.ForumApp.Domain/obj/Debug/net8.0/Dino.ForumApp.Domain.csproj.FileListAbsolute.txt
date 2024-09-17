@@ -10,3 +10,4 @@ D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\
 D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\refint\Dino.ForumApp.Domain.dll
 D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\Dino.ForumApp.Domain.pdb
 D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\ref\Dino.ForumApp.Domain.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Domain\obj\Debug\net8.0\Dino.ForumApp.Domain.sourcelink.json

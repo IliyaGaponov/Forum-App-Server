@@ -6,8 +6,16 @@ using System.Security.Claims;
 
 namespace Dino.ForumApp.Infrastructure
 {
+    /// <summary>
+    /// Provides functionality for generating and validating JWT tokens.
+    /// </summary>
     public class JwtProvider : IJwtProvider
     {
+        /// <summary>
+        /// Generates a JWT token for the specified user.
+        /// </summary>
+        /// <param name="user">The auth user.</param>
+        /// <returns>Returns a JWT token string.</returns>
         public string GenerateToken(User user)
         {
             Claim[] claims = [new("userId", user.Id.ToString())];

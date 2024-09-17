@@ -15,3 +15,4 @@ D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net
 D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\Dino.ForumApp.DataAccess.pdb
 D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\Dino.ForumApp.DataAccess.genruntimeconfig.cache
 D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\ref\Dino.ForumApp.DataAccess.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.DataAccess\obj\Debug\net8.0\Dino.ForumApp.DataAccess.sourcelink.json

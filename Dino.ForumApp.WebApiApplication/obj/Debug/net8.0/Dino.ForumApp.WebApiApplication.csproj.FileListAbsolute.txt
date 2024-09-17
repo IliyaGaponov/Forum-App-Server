@@ -184,3 +184,4 @@ D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.WebApiApplication\obj\De
 D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.WebApiApplication\obj\Debug\net8.0\Dino.ForumApp.WebApiApplication.pdb
 D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.WebApiApplication\obj\Debug\net8.0\Dino.ForumApp.WebApiApplication.genruntimeconfig.cache
 D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.WebApiApplication\obj\Debug\net8.0\ref\Dino.ForumApp.WebApiApplication.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.WebApiApplication\obj\Debug\net8.0\Dino.ForumApp.WebApiApplication.sourcelink.json

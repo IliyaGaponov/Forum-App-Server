@@ -17,3 +17,4 @@ D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Infrastructure\obj\Debug
 D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Infrastructure\obj\Debug\net8.0\refint\Dino.ForumApp.Infrastructure.dll
 D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Infrastructure\obj\Debug\net8.0\Dino.ForumApp.Infrastructure.pdb
 D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Infrastructure\obj\Debug\net8.0\ref\Dino.ForumApp.Infrastructure.dll
+D:\VS projects\Dino.ForumApp.GaponovIliya\Dino.ForumApp.Infrastructure\obj\Debug\net8.0\Dino.ForumApp.Infrastructure.sourcelink.json

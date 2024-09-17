@@ -1,13 +1,14 @@
 ﻿using AutoMapper;
 using Dino.ForumApp.Application.DTOs;
-using Dino.ForumApp.Application.Hubs;
 using Dino.ForumApp.Application.Interfaces;
 using Dino.ForumApp.DataAccess.Interfaces;
 using Dino.ForumApp.Domain.Models;
-using Microsoft.AspNetCore.SignalR;
 
 namespace Dino.ForumApp.Application.Services
 {
+    /// <summary>
+    /// Service for managing post-related operations.
+    /// </summary>
     public class PostService : IPostService
     {
         private readonly IPostRepository _postRepository;
@@ -16,6 +17,14 @@ namespace Dino.ForumApp.Application.Services
         private readonly IMapper _mapper;
         private readonly IForumHub _forumHub;
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="PostService"/> class.
+        /// </summary>
+        /// <param name="postRepository">The post repository.</param>
+        /// <param name="commentRepository">The comment repository.</param>
+        /// <param name="userRepository">The user repository.</param>
+        /// <param name="mapper">The automapper.</param>
+        /// <param name="forumHub">The signalr hub.</param>
         public PostService(IPostRepository postRepository, ICommentRepository commentRepository, IUserRepository userRepository, IMapper mapper, IForumHub forumHub)
         {
             this._postRepository = postRepository;
@@ -23,10 +32,15 @@ namespace Dino.ForumApp.Application.Services
             this._userRepository = userRepository;
             this._mapper = mapper;
             this._forumHub = forumHub;
-        }       
+        }
 
+        /// <summary>
+        /// Creates a new post.
+        /// </summary>
+        /// <param name="postDto">The post data transfer object (DTO) containing post details.</param>
         public async Task CreatePostAsync(PostDto postDto)
         {
+            // Verify whether the user exists
             User user = await _userRepository.GetUserByEmailAsync(postDto.Email).ConfigureAwait(false);
 
             Post post = _mapper.Map<Post>(postDto, opt =>
@@ -34,13 +48,16 @@ namespace Dino.ForumApp.Application.Services
                 opt.Items["AuthorId"] = user.Id;
             });
 
-            await _postRepository.AddPostAsync(post).ConfigureAwait(false);
+            postDto.Id = await _postRepository.AddPostAsync(post).ConfigureAwait(false);
 
             // Broadcast the new post to all clients via SignalR
-            //await _hubContext.Clients.All.SendAsync("ReceivePost", postDto);
             await _forumHub.SendPost(postDto);
         }
 
+        /// <summary>
+        /// Gets all posts.
+        /// </summary>
+        /// <returns>Returns all forum posts.</returns>
         public async Task<GetAllPostsResponse> GetAllPostsAsync()
         {
             List<Post> posts = await _postRepository.GetAllPostsAsync().ConfigureAwait(false);
@@ -49,8 +66,13 @@ namespace Dino.ForumApp.Application.Services
             return new GetAllPostsResponse { Posts = postsResponse };
         }
 
+        /// <summary>
+        /// Creates a new comment.
+        /// </summary>
+        /// <param name="commentDto">The comment data transfer object (DTO) containing comment details.</param>
         public async Task CreateCommentAsync(CommentDto commentDto)
         {
+            // Verify whether a post exists for this comment
             if (await _postRepository.IsPostExists(commentDto.PostId))
             {
                 User user = await _userRepository.GetUserByEmailAsync(commentDto.Email).ConfigureAwait(false);
@@ -62,7 +84,6 @@ namespace Dino.ForumApp.Application.Services
                 await _commentRepository.AddCommentAsync(comment).ConfigureAwait(false);
 
                 // Broadcast the new post to all clients via SignalR
-                //await _hubContext.Clients.All.SendAsync("ReceiveComment", commentDto);
                 await _forumHub.SendComment(commentDto);
             }
         }

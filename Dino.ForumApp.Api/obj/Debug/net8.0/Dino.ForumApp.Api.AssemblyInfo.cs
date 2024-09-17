@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dino.ForumApp.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b982d250f628ac8a084bceb2203abbd3c1d31e4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dino.ForumApp.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dino.ForumApp.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
